@@ -22,7 +22,7 @@ Developed IoT-based LED display system that showcases student achievements, curr
  <h2>🎥 Demo Video</h2>
 </head>
   <video controls>
-    <source src="Output/video.mp4" type="video/mp4">
+    <source src="Output/led.mp4" type="led/mp4">
     Your browser does not support the video tag.
   </video>
 
