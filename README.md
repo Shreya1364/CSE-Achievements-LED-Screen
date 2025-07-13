@@ -15,5 +15,4 @@ Developed IoT-based LED display system that showcases student achievements, curr
 - Real-time temperature display
 - Displays scrolling student achievements
 
- <h2>🎥 Demo Video</h2>
- https://github.com/Shreya1364/CSE-Achievements-LED-Screen/Videos/demo.mp4
+
