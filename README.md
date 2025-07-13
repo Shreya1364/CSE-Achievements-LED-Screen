@@ -16,5 +16,9 @@ Developed IoT-based LED display system that showcases student achievements, curr
 - Displays scrolling student achievements
 
 
-## 📸 Images
-![LED Display](https://github.com/user-attachments/assets/779a4fb0-b31c-45a2-aff7-547ec2f4a7c2.mp4)
+
+<video width="600" controls>
+  <source src="Output/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
