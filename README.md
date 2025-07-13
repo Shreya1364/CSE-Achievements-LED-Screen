@@ -17,4 +17,4 @@ Developed IoT-based LED display system that showcases student achievements, curr
 
 
 ## 📸 Images
-![LED Display](images/led_screen.jpg)
+![LED Display]([images/led_screen.jpg](https://github.com/user-attachments/assets/779a4fb0-b31c-45a2-aff7-547ec2f4a7c2.mp4)
