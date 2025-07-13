@@ -16,4 +16,4 @@ Developed IoT-based LED display system that showcases student achievements, curr
 - Displays scrolling student achievements
 
  <h2>🎥 Demo Video</h2>
- https://github.com/Shreya1364/CSE-Achievements-LED-Screen/CSEAchievementsLEDScreen/Videos/demo.mp4
+ https://github.com/Shreya1364/CSE-Achievements-LED-Screen//Videos/demo.mp4
